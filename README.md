@@ -1,6 +1,7 @@
 # Krishok–LeafCareNet
 ### Hierarchical Crop Disease Recognition, IoT Monitoring, and Intelligent Agricultural Advisory
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24523324.svg)](https://doi.org/10.5281/zenodo.24523324)
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](LICENSE)
 [![Python](https://img.shields.io/badge/Python-3.10%2B-brightgreen.svg)](https://www.python.org/)
 [![Flutter](https://img.shields.io/badge/Flutter-3.x-blue.svg)](https://flutter.dev/)
