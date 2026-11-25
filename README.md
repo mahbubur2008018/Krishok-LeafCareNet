@@ -6,7 +6,7 @@
 [![Python](https://img.shields.io/badge/Python-3.10%2B-brightgreen.svg)](https://www.python.org/)
 [![Flutter](https://img.shields.io/badge/Flutter-3.x-blue.svg)](https://flutter.dev/)
 [![TFLite](https://img.shields.io/badge/TensorFlow%20Lite-Float32-orange.svg)](models/MODEL_CARD.md)
-[![Status](https://img.shields.io/badge/Status-Peer--Review%20Staging-orange.svg)](#)
+[![Status](https://img.shields.io/badge/Status-Public%20Research%20Release-brightgreen.svg)](https://github.com/mahbubur2008018/Krishok-LeafCareNet/releases/tag/v1.0.0)
 
 ---
 
@@ -98,7 +98,7 @@ LeafCareNet demonstrated superior robustness across domain shifts while maintain
 
 ### 5.1 Python Environment (Model Training & Evaluation)
 ```bash
-git clone https://github.com/Mahbub-AI/Krishok-LeafCareNet.git
+git clone https://github.com/mahbubur2008018/Krishok-LeafCareNet.git
 cd Krishok-LeafCareNet
 
 # Create and activate virtual environment
@@ -145,7 +145,7 @@ flutter pub get
 flutter build apk --debug
 ```
 
-Installable Android APK is available in `release-assets/krishok-app-v1.0-debug.apk`.
+Installable Android evaluation APK (debug build with offline TFLite inference and ESP32 SoftAP integration) is available in `release-assets/krishok-app-v1.0-debug.apk` and downloadable from [GitHub Release v1.0.0](https://github.com/mahbubur2008018/Krishok-LeafCareNet/releases/tag/v1.0.0).
 
 ---
 

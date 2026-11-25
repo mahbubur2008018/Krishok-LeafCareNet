@@ -3,7 +3,7 @@ import 'package:lucide_icons/lucide_icons.dart';
 import '../theme/app_theme.dart';
 
 // ════════════════════════════════════════════════════════════════════════════════
-// UPDATES SCREEN — Placeholder
+// UPDATES SCREEN — Offline advisory bulletin & system notification interface
 // ════════════════════════════════════════════════════════════════════════════════
 
 class UpdatesScreen extends StatelessWidget {
