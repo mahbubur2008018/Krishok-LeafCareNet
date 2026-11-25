@@ -1,0 +1,9 @@
+Model,Category,Observed_Accuracy,Class_Stratified_10k_CI_Low,Class_Stratified_10k_CI_High,Class_Stratified_10k_CI,Original_Unstratified_1k_CI_Low,Original_Unstratified_1k_CI_High,Original_Unstratified_1k_CI
+MobileNetV2 Flat,Flat,99.02,98.36,99.56,"[98.36%, 99.56%]",98.36,99.56,"[98.36%, 99.56%]"
+EfficientNet-B3 Flat,Flat,99.02,98.36,99.56,"[98.36%, 99.56%]",98.47,99.56,"[98.47%, 99.56%]"
+FasterNet-M Flat,Flat,98.47,97.6,99.24,"[97.60%, 99.24%]",97.71,99.24,"[97.71%, 99.24%]"
+DeiT-Tiny Flat,Flat,97.05,95.96,98.03,"[95.96%, 98.03%]",95.96,98.03,"[95.96%, 98.03%]"
+EfficientNet-B3 Hierarchical,Hierarchical,98.91,98.25,99.56,"[98.25%, 99.56%]",98.14,99.56,"[98.14%, 99.56%]"
+FasterNet-M Hierarchical,Hierarchical,98.25,97.38,99.02,"[97.38%, 99.02%]",97.38,99.02,"[97.38%, 99.02%]"
+DeiT-Tiny Hierarchical,Hierarchical,95.74,94.43,96.94,"[94.43%, 96.94%]",94.32,96.94,"[94.32%, 96.94%]"
+LeafCareNet (Proposed),Proposed Hierarchical,99.13,98.47,99.67,"[98.47%, 99.67%]",98.47,99.67,"[98.47%, 99.67%]"

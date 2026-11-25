@@ -1,0 +1,32 @@
+# D2 External Benchmark (2,337 Images) Source Repository & Crop Distribution
+#
+# Verified Crop Distribution (Exact Ground Truth):
+# - Potato: 1,044 images (44.67%)
+# - Rice:     884 images (37.83%)
+# - Tomato:   409 images (17.50%)
+# Total:    2,337 images (100.00%)
+#
+# Provenance Documentation & Limitation Notice:
+# Images in D2 were sampled from 8 independent public repositories:
+# 1. BanglaRiceLeaf Dataset (Rice)
+# 2. Irish Potato Leaf Disease Dataset (Potato)
+# 3. Paddy Doctor Challenge Dataset (Rice)
+# 4. A High-Resolution Image Dataset of Tomato (Tomato)
+# 5. Roboflow Tomato Leaves Disease / Multiclass (Tomato)
+# 6. Tomato Leaf Disease Classification Dataset (Tomato)
+# 7. Tomato Leaf Disease Classification Dataset in Pakistan (Tomato: 7,200 source images)
+# 8. Real-World Tomato Leaf Image Dataset (Tomato)
+#
+# Note on Source-Specific Granular Breakdown:
+# While the overall crop distribution (Potato: 1,044, Rice: 884, Tomato: 409) and the 16 canonical class
+# distributions are 100% mathematically verified from the prediction and evaluation records, exact per-repository
+# image counts cannot be exhaustively reconstructed for all 2,337 images because the sampling script merged
+# the source pools prior to selection. Per scientific integrity guidelines, unsupported per-repository sub-totals
+# are explicitly removed rather than estimated.
+#
+Crop,Canonical_Class_Count,Verified_Total_Images,Crop_Percentage
+Potato,3,1044,44.67%
+Rice,5,884,37.83%
+Tomato,8,409,17.50%
+Total,16,2337,100.00%
+

@@ -1,0 +1,14 @@
+{
+  "checkpoint": "C:\\Users\\mahbu\\OneDrive\\Desktop\\Krishok_LeafCareNet_Public_Release\\Krishok-LeafCareNet\\models\\leafcarenet_best.pth",
+  "tflite_binary": "C:\\Users\\mahbu\\OneDrive\\Desktop\\Krishok_LeafCareNet_Public_Release\\Krishok-LeafCareNet\\models\\LeafCareNet_final_float32.tflite",
+  "onnx_export": "C:\\Users\\mahbu\\OneDrive\\Desktop\\Krishok_LeafCareNet_Public_Release\\Krishok-LeafCareNet\\leafcarenet\\checkpoints\\LeafCareNet_exported.onnx",
+  "parameters": 2248211,
+  "numerical_parity": {
+    "max_abs_diff": 2.86102294921875e-06,
+    "mean_abs_diff": 6.616115797442035e-07,
+    "parity_pass": true,
+    "tolerance": 0.0001,
+    "n_tests": 5
+  },
+  "status": "PASS"
+}

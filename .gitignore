@@ -1,0 +1,37 @@
+# Git ignore rules for Krishok-LeafCareNet public repository
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Checkpoints and temporary models
+leafcarenet/checkpoints/leafcarenet_smoke_test_best.pth
+*.tmp
+
+# Flutter / Dart build artifacts
+krishok-mobile/.dart_tool/
+krishok-mobile/.flutter-plugins
+krishok-mobile/.flutter-plugins-dependencies
+krishok-mobile/.packages
+krishok-mobile/build/
+krishok-mobile/.pub-cache/
+krishok-mobile/.pub/
+
+# Android build and local properties
+krishok-mobile/android/.gradle/
+krishok-mobile/android/local.properties
+krishok-mobile/android/**/build/
+*.keystore
+!krishok-mobile/android/app/debug.keystore
+
+# Operating system files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Environment variables and secrets
+.env
+.env.*
+*.key

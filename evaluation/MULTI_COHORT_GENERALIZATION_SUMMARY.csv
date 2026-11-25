@@ -1,0 +1,4 @@
+Cohort,Sample_Size,Correct,Errors,Accuracy_Pct,Macro_F1_Pct,Weighted_F1_Pct,MCC,Cohen_Kappa,Crop_Routing_Accuracy_Pct,Mean_Confidence
+Benchmark (D1),916,908,8,99.13,99.27,99.13,0.9903,0.9902,100.0,0.9247
+External Public (D2),2337,2298,39,98.33,95.09,98.31,0.9809,0.9809,100.0,0.6894
+Field-collected (D3),295,282,13,95.59,94.8,95.59,0.9526,0.9526,100.0,0.5989

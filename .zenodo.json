@@ -1,0 +1,42 @@
+{
+  "title": "Krishok-LeafCareNet: An Integrated IoT\u2013Edge AI System with Hierarchical Classification for Multi-Crop Disease Diagnosis and Real-Time Advisory",
+  "upload_type": "software",
+  "description": "Official open-source research software release for Krishok-LeafCareNet, an integrated IoT-edge AI system combining hierarchical crop disease recognition, in-situ soil microclimate monitoring via ESP32, and an offline-first intelligent agricultural advisory mobile application.",
+  "creators": [
+    {
+      "name": "Rahman, Md. Mahbubur",
+      "affiliation": "Department of Mechatronics Engineering, Rajshahi University of Engineering & Technology (RUET), Rajshahi, Bangladesh",
+      "orcid": "0009-0004-0252-9140"
+    },
+    {
+      "name": "Mridha, Siam",
+      "affiliation": "Department of Mechatronics Engineering, Rajshahi University of Engineering & Technology (RUET), Rajshahi, Bangladesh",
+      "orcid": "0009-0003-2850-8076"
+    },
+    {
+      "name": "Badal, Faisal Rahman",
+      "affiliation": "Department of Mechatronics Engineering, Rajshahi University of Engineering & Technology (RUET), Rajshahi, Bangladesh",
+      "orcid": "0000-0002-7463-7675"
+    },
+    {
+      "name": "Rahi, Md Raihanul Haque",
+      "affiliation": "Department of Mechatronics Engineering, Rajshahi University of Engineering & Technology (RUET), Rajshahi, Bangladesh",
+      "orcid": "0000-0002-2936-6263"
+    }
+  ],
+  "access_right": "open",
+  "license": "Apache-2.0",
+  "version": "v1.0.0",
+  "keywords": [
+    "Smart Agriculture",
+    "Crop Disease Recognition",
+    "Hierarchical Classification",
+    "LeafCareNet",
+    "Edge AI",
+    "MobileNetV2",
+    "IoT",
+    "ESP32",
+    "Flutter",
+    "TensorFlow Lite"
+  ]
+}

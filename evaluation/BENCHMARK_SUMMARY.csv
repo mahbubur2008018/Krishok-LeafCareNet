@@ -1,0 +1,9 @@
+Model,Paradigm,Backbone,Parameters,D1_Accuracy_Pct,D1_Macro_F1_Pct,D1_Weighted_F1_Pct,D1_MCC,Accuracy_95CI_Low_Pct,Accuracy_95CI_High_Pct,T4_Latency_ms,Throughput_FPS,CI_Protocol
+MobileNetV2 Flat,Flat,mobilenetv2,2244368,99.02,98.53,99.02,0.989,98.36,99.56,5.24,190.7,10000_Class_Stratified_Seed42
+EfficientNet-B3 Flat,Flat,efficientnet_b3,10720824,99.02,98.28,99.01,0.989,98.36,99.56,15.02,66.6,10000_Class_Stratified_Seed42
+FasterNet-M Flat,Flat,fasternet_m,52258912,98.47,98.4,98.48,0.983,97.60,99.24,13.02,76.8,10000_Class_Stratified_Seed42
+DeiT-Tiny Flat,Flat,deit_tiny,5527504,97.05,95.88,97.05,0.9672,95.96,98.03,5.16,193.9,10000_Class_Stratified_Seed42
+LeafCareNet (Proposed),Hierarchical,mobilenetv2,2248211,99.13,99.27,99.13,0.9903,98.47,99.67,5.67,176.3,10000_Class_Stratified_Seed42
+EfficientNet-B3 Hierarchical,Hierarchical,efficientnet_b3,10725435,98.91,98.51,98.91,0.9878,98.25,99.56,16.5,60.6,10000_Class_Stratified_Seed42
+FasterNet-M Hierarchical,Hierarchical,fasternet_m,52262371,98.25,96.86,98.26,0.9806,97.38,99.02,10.01,99.9,10000_Class_Stratified_Seed42
+DeiT-Tiny Hierarchical,Hierarchical,deit_tiny,5528083,95.74,93.81,95.73,0.9526,94.43,96.94,6.14,162.8,10000_Class_Stratified_Seed42

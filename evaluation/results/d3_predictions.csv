@@ -1,0 +1,296 @@
+dataset_id,dataset_name,image_id,full_path,true_canonical,pred_canonical,correct,confidence,crop_confidence,disease_confidence,crop,pred_crop,crop_correct,is_shared_with_d2
+D3,Field-collected Test Dataset (D3),erblt1320.jpg,D3/Potato/Potato_Early_Blight/erblt1320.jpg,Potato_Early_Blight,Potato_Early_Blight,1,0.686084,0.686212,0.999815,Potato,Potato,1,False
+D3,Field-collected Test Dataset (D3),erblt16804.jpg,D3/Potato/Potato_Early_Blight/erblt16804.jpg,Potato_Early_Blight,Potato_Early_Blight,1,0.545644,0.567056,0.96224,Potato,Potato,1,False
+D3,Field-collected Test Dataset (D3),erblt40638.jpg,D3/Potato/Potato_Early_Blight/erblt40638.jpg,Potato_Early_Blight,Potato_Early_Blight,1,0.512206,0.530781,0.965004,Potato,Potato,1,True
+D3,Field-collected Test Dataset (D3),erblt5114.jpg,D3/Potato/Potato_Early_Blight/erblt5114.jpg,Potato_Early_Blight,Potato_Early_Blight,1,0.659027,0.731861,0.900481,Potato,Potato,1,False
+D3,Field-collected Test Dataset (D3),id_005565_earlyblt10361_alt.jpg,D3/Potato/Potato_Early_Blight/id_005565_earlyblt10361_alt.jpg,Potato_Early_Blight,Potato_Early_Blight,1,0.425011,0.522677,0.813142,Potato,Potato,1,False
+D3,Field-collected Test Dataset (D3),id_007580_earlyblt12175_alt.jpg,D3/Potato/Potato_Early_Blight/id_007580_earlyblt12175_alt.jpg,Potato_Early_Blight,Potato_Early_Blight,1,0.584519,0.584523,0.999993,Potato,Potato,1,False
+D3,Field-collected Test Dataset (D3),id_008413_earlyblt12925_alt.jpg,D3/Potato/Potato_Early_Blight/id_008413_earlyblt12925_alt.jpg,Potato_Early_Blight,Potato_Early_Blight,1,0.80117,0.801215,0.999944,Potato,Potato,1,False
+D3,Field-collected Test Dataset (D3),id_008506_earlyblt13008_alt.jpg,D3/Potato/Potato_Early_Blight/id_008506_earlyblt13008_alt.jpg,Potato_Early_Blight,Potato_Early_Blight,1,0.484132,0.484209,0.99984,Potato,Potato,1,False
+D3,Field-collected Test Dataset (D3),id_008522_earlyblt13022_alt.jpg,D3/Potato/Potato_Early_Blight/id_008522_earlyblt13022_alt.jpg,Potato_Early_Blight,Potato_Early_Blight,1,0.627122,0.627243,0.999808,Potato,Potato,1,False
+D3,Field-collected Test Dataset (D3),id_008624_earlyblt13114_alt.jpg,D3/Potato/Potato_Early_Blight/id_008624_earlyblt13114_alt.jpg,Potato_Early_Blight,Potato_Early_Blight,1,0.612057,0.612122,0.999894,Potato,Potato,1,False
+D3,Field-collected Test Dataset (D3),id_008626_earlyblt13116_alt.jpg,D3/Potato/Potato_Early_Blight/id_008626_earlyblt13116_alt.jpg,Potato_Early_Blight,Potato_Early_Blight,1,0.454855,0.455273,0.999081,Potato,Potato,1,True
+D3,Field-collected Test Dataset (D3),id_008637_earlyblt13126_alt.jpg,D3/Potato/Potato_Early_Blight/id_008637_earlyblt13126_alt.jpg,Potato_Early_Blight,Potato_Early_Blight,1,0.483903,0.484001,0.999798,Potato,Potato,1,False
+D3,Field-collected Test Dataset (D3),id_009090_earlyblt13534_alt.jpg,D3/Potato/Potato_Early_Blight/id_009090_earlyblt13534_alt.jpg,Potato_Early_Blight,Potato_Early_Blight,1,0.529682,0.529762,0.999849,Potato,Potato,1,False
+D3,Field-collected Test Dataset (D3),id_010168_earlyblt14504_alt.jpg,D3/Potato/Potato_Early_Blight/id_010168_earlyblt14504_alt.jpg,Potato_Early_Blight,Potato_Early_Blight,1,0.552597,0.55262,0.999957,Potato,Potato,1,False
+D3,Field-collected Test Dataset (D3),id_010846_earlyblt15114_alt.jpg,D3/Potato/Potato_Early_Blight/id_010846_earlyblt15114_alt.jpg,Potato_Early_Blight,Potato_Early_Blight,1,0.915744,0.915745,1.0,Potato,Potato,1,False
+D3,Field-collected Test Dataset (D3),id_012681_earlyblt16767_alt.jpg,D3/Potato/Potato_Early_Blight/id_012681_earlyblt16767_alt.jpg,Potato_Early_Blight,Potato_Early_Blight,1,0.627766,0.627789,0.999964,Potato,Potato,1,False
+D3,Field-collected Test Dataset (D3),id_013476_earlyblt17482_alt.jpg,D3/Potato/Potato_Early_Blight/id_013476_earlyblt17482_alt.jpg,Potato_Early_Blight,Potato_Early_Blight,1,0.706163,0.706165,0.999997,Potato,Potato,1,False
+D3,Field-collected Test Dataset (D3),id_013533_earlyblt17533_alt.jpg,D3/Potato/Potato_Early_Blight/id_013533_earlyblt17533_alt.jpg,Potato_Early_Blight,Potato_Early_Blight,1,0.462407,0.462464,0.999876,Potato,Potato,1,False
+D3,Field-collected Test Dataset (D3),id_020044_earlyblt74_alt.jpg,D3/Potato/Potato_Early_Blight/id_020044_earlyblt74_alt.jpg,Potato_Early_Blight,Potato_Early_Blight,1,0.543397,0.544224,0.998481,Potato,Potato,1,False
+D3,Field-collected Test Dataset (D3),id_020644_earlyblt794_alt.jpg,D3/Potato/Potato_Early_Blight/id_020644_earlyblt794_alt.jpg,Potato_Early_Blight,Potato_Early_Blight,1,0.428886,0.455535,0.941499,Potato,Potato,1,False
+D3,Field-collected Test Dataset (D3),id_021947_earlyblt9111_alt.jpg,D3/Potato/Potato_Early_Blight/id_021947_earlyblt9111_alt.jpg,Potato_Early_Blight,Potato_Early_Blight,1,0.41803,0.418125,0.999775,Potato,Potato,1,False
+D3,Field-collected Test Dataset (D3),id_022663_earlyblt9757_alt.jpg,D3/Potato/Potato_Early_Blight/id_022663_earlyblt9757_alt.jpg,Potato_Early_Blight,Potato_Early_Blight,1,0.475162,0.475228,0.99986,Potato,Potato,1,True
+D3,Field-collected Test Dataset (D3),id_100815_lateblt886.jpg,D3/Potato/Potato_Early_Blight/id_100815_lateblt886.jpg,Potato_Early_Blight,Potato_Late_Blight,0,0.535156,0.535158,0.999996,Potato,Potato,1,True
+D3,Field-collected Test Dataset (D3),photo_12_2026-04-19_09-33-58.jpg,D3/Potato/Potato_Early_Blight/photo_12_2026-04-19_09-33-58.jpg,Potato_Early_Blight,Potato_Early_Blight,1,0.362337,0.362466,0.999643,Potato,Potato,1,False
+D3,Field-collected Test Dataset (D3),photo_16_2026-04-19_09-33-58.jpg,D3/Potato/Potato_Early_Blight/photo_16_2026-04-19_09-33-58.jpg,Potato_Early_Blight,Potato_Early_Blight,1,0.450538,0.450572,0.999925,Potato,Potato,1,False
+D3,Field-collected Test Dataset (D3),photo_6_2026-04-19_09-14-53.jpg,D3/Potato/Potato_Early_Blight/photo_6_2026-04-19_09-14-53.jpg,Potato_Early_Blight,Potato_Early_Blight,1,0.431905,0.433263,0.996867,Potato,Potato,1,False
+D3,Field-collected Test Dataset (D3),hlth15966.jpg,D3/Potato/Potato_Healthy/hlth15966.jpg,Potato_Healthy,Potato_Healthy,1,0.546354,0.549157,0.994897,Potato,Potato,1,False
+D3,Field-collected Test Dataset (D3),hlth2771.jpg,D3/Potato/Potato_Healthy/hlth2771.jpg,Potato_Healthy,Potato_Healthy,1,0.459091,0.466621,0.983863,Potato,Potato,1,False
+D3,Field-collected Test Dataset (D3),hlth5483.jpg,D3/Potato/Potato_Healthy/hlth5483.jpg,Potato_Healthy,Potato_Healthy,1,0.764717,0.76556,0.998899,Potato,Potato,1,False
+D3,Field-collected Test Dataset (D3),hlth56279.jpg,D3/Potato/Potato_Healthy/hlth56279.jpg,Potato_Healthy,Potato_Healthy,1,0.706191,0.707489,0.998165,Potato,Potato,1,False
+D3,Field-collected Test Dataset (D3),hlth66262.jpg,D3/Potato/Potato_Healthy/hlth66262.jpg,Potato_Healthy,Potato_Healthy,1,0.349377,0.433234,0.806441,Potato,Potato,1,False
+D3,Field-collected Test Dataset (D3),hlth80401.jpg,D3/Potato/Potato_Healthy/hlth80401.jpg,Potato_Healthy,Potato_Healthy,1,0.458109,0.648056,0.706897,Potato,Potato,1,False
+D3,Field-collected Test Dataset (D3),hlth90620.jpg,D3/Potato/Potato_Healthy/hlth90620.jpg,Potato_Healthy,Potato_Healthy,1,0.515721,0.520075,0.991628,Potato,Potato,1,False
+D3,Field-collected Test Dataset (D3),hlth96389.jpg,D3/Potato/Potato_Healthy/hlth96389.jpg,Potato_Healthy,Potato_Healthy,1,0.56945,0.591279,0.963082,Potato,Potato,1,False
+D3,Field-collected Test Dataset (D3),id_040737_healthy10025.jpg,D3/Potato/Potato_Healthy/id_040737_healthy10025.jpg,Potato_Healthy,Potato_Healthy,1,0.82633,0.826424,0.999887,Potato,Potato,1,False
+D3,Field-collected Test Dataset (D3),id_040741_healthy10029.jpg,D3/Potato/Potato_Healthy/id_040741_healthy10029.jpg,Potato_Healthy,Potato_Healthy,1,0.714988,0.715034,0.999936,Potato,Potato,1,False
+D3,Field-collected Test Dataset (D3),id_040753_healthy1004.jpg,D3/Potato/Potato_Healthy/id_040753_healthy1004.jpg,Potato_Healthy,Potato_Healthy,1,0.604448,0.623484,0.969469,Potato,Potato,1,False
+D3,Field-collected Test Dataset (D3),id_040765_healthy10050.jpg,D3/Potato/Potato_Healthy/id_040765_healthy10050.jpg,Potato_Healthy,Potato_Healthy,1,0.386768,0.393019,0.984095,Potato,Potato,1,False
+D3,Field-collected Test Dataset (D3),id_040868_healthy10143.jpg,D3/Potato/Potato_Healthy/id_040868_healthy10143.jpg,Potato_Healthy,Potato_Healthy,1,0.539509,0.565082,0.954744,Potato,Potato,1,False
+D3,Field-collected Test Dataset (D3),id_040916_healthy10187.jpg,D3/Potato/Potato_Healthy/id_040916_healthy10187.jpg,Potato_Healthy,Potato_Healthy,1,0.658701,0.659521,0.998757,Potato,Potato,1,False
+D3,Field-collected Test Dataset (D3),id_042268_healthy11403.jpg,D3/Potato/Potato_Healthy/id_042268_healthy11403.jpg,Potato_Healthy,Potato_Healthy,1,0.79064,0.790926,0.999637,Potato,Potato,1,False
+D3,Field-collected Test Dataset (D3),id_042364_healthy11490.jpg,D3/Potato/Potato_Healthy/id_042364_healthy11490.jpg,Potato_Healthy,Potato_Healthy,1,0.659269,0.701947,0.939201,Potato,Potato,1,False
+D3,Field-collected Test Dataset (D3),id_042411_healthy11532.jpg,D3/Potato/Potato_Healthy/id_042411_healthy11532.jpg,Potato_Healthy,Potato_Healthy,1,0.624016,0.631651,0.987913,Potato,Potato,1,False
+D3,Field-collected Test Dataset (D3),id_042595_healthy11699.jpg,D3/Potato/Potato_Healthy/id_042595_healthy11699.jpg,Potato_Healthy,Potato_Healthy,1,0.664077,0.685557,0.968667,Potato,Potato,1,False
+D3,Field-collected Test Dataset (D3),id_042598_healthy11700.jpg,D3/Potato/Potato_Healthy/id_042598_healthy11700.jpg,Potato_Healthy,Potato_Healthy,1,0.393649,0.447447,0.879766,Potato,Potato,1,False
+D3,Field-collected Test Dataset (D3),photo_5_2026-04-19_09-14-53.jpg,D3/Potato/Potato_Healthy/photo_5_2026-04-19_09-14-53.jpg,Potato_Healthy,Potato_Healthy,1,0.674501,0.675092,0.999124,Potato,Potato,1,False
+D3,Field-collected Test Dataset (D3),erblt29544.jpg,D3/Potato/Potato_Late_Blight/erblt29544.jpg,Potato_Late_Blight,Potato_Early_Blight,0,0.417608,0.487932,0.855874,Potato,Potato,1,False
+D3,Field-collected Test Dataset (D3),id_085350_lateblt13389.jpg,D3/Potato/Potato_Late_Blight/id_085350_lateblt13389.jpg,Potato_Late_Blight,Potato_Late_Blight,1,0.58755,0.58769,0.999762,Potato,Potato,1,False
+D3,Field-collected Test Dataset (D3),id_085352_lateblt13390.jpg,D3/Potato/Potato_Late_Blight/id_085352_lateblt13390.jpg,Potato_Late_Blight,Potato_Late_Blight,1,0.689526,0.690134,0.99912,Potato,Potato,1,False
+D3,Field-collected Test Dataset (D3),id_085376_lateblt13411.jpg,D3/Potato/Potato_Late_Blight/id_085376_lateblt13411.jpg,Potato_Late_Blight,Potato_Late_Blight,1,0.54146,0.569662,0.950494,Potato,Potato,1,True
+D3,Field-collected Test Dataset (D3),id_085411_lateblt13443.jpg,D3/Potato/Potato_Late_Blight/id_085411_lateblt13443.jpg,Potato_Late_Blight,Potato_Late_Blight,1,0.440662,0.440694,0.999926,Potato,Potato,1,True
+D3,Field-collected Test Dataset (D3),id_085429_lateblt1346.jpg,D3/Potato/Potato_Late_Blight/id_085429_lateblt1346.jpg,Potato_Late_Blight,Potato_Late_Blight,1,0.474456,0.65962,0.719287,Potato,Potato,1,False
+D3,Field-collected Test Dataset (D3),id_085506_lateblt13529.jpg,D3/Potato/Potato_Late_Blight/id_085506_lateblt13529.jpg,Potato_Late_Blight,Potato_Late_Blight,1,0.561932,0.564378,0.995667,Potato,Potato,1,True
+D3,Field-collected Test Dataset (D3),id_085586_lateblt13600.jpg,D3/Potato/Potato_Late_Blight/id_085586_lateblt13600.jpg,Potato_Late_Blight,Potato_Late_Blight,1,0.472229,0.47223,0.999998,Potato,Potato,1,True
+D3,Field-collected Test Dataset (D3),id_085611_lateblt13623.jpg,D3/Potato/Potato_Late_Blight/id_085611_lateblt13623.jpg,Potato_Late_Blight,Potato_Late_Blight,1,0.6624,0.662405,0.999992,Potato,Potato,1,False
+D3,Field-collected Test Dataset (D3),id_085697_lateblt13700.jpg,D3/Potato/Potato_Late_Blight/id_085697_lateblt13700.jpg,Potato_Late_Blight,Potato_Late_Blight,1,0.403231,0.64478,0.625377,Potato,Potato,1,False
+D3,Field-collected Test Dataset (D3),id_086292_lateblt14236.jpg,D3/Potato/Potato_Late_Blight/id_086292_lateblt14236.jpg,Potato_Late_Blight,Potato_Late_Blight,1,0.397505,0.410056,0.969391,Potato,Potato,1,False
+D3,Field-collected Test Dataset (D3),id_086372_lateblt14308.jpg,D3/Potato/Potato_Late_Blight/id_086372_lateblt14308.jpg,Potato_Late_Blight,Potato_Late_Blight,1,0.425272,0.425284,0.999973,Potato,Potato,1,True
+D3,Field-collected Test Dataset (D3),id_086699_lateblt14602.jpg,D3/Potato/Potato_Late_Blight/id_086699_lateblt14602.jpg,Potato_Late_Blight,Potato_Late_Blight,1,0.771222,0.771681,0.999405,Potato,Potato,1,False
+D3,Field-collected Test Dataset (D3),id_087471_lateblt15298.jpg,D3/Potato/Potato_Late_Blight/id_087471_lateblt15298.jpg,Potato_Late_Blight,Potato_Late_Blight,1,0.617777,0.621062,0.99471,Potato,Potato,1,False
+D3,Field-collected Test Dataset (D3),id_087533_lateblt15353.jpg,D3/Potato/Potato_Late_Blight/id_087533_lateblt15353.jpg,Potato_Late_Blight,Potato_Late_Blight,1,0.68862,0.691659,0.995606,Potato,Potato,1,False
+D3,Field-collected Test Dataset (D3),id_087952_lateblt15730.jpg,D3/Potato/Potato_Late_Blight/id_087952_lateblt15730.jpg,Potato_Late_Blight,Potato_Late_Blight,1,0.530649,0.535034,0.991804,Potato,Potato,1,False
+D3,Field-collected Test Dataset (D3),id_088455_lateblt16183.jpg,D3/Potato/Potato_Late_Blight/id_088455_lateblt16183.jpg,Potato_Late_Blight,Potato_Late_Blight,1,0.706943,0.706994,0.999928,Potato,Potato,1,False
+D3,Field-collected Test Dataset (D3),id_090933_lateblt18413.jpg,D3/Potato/Potato_Late_Blight/id_090933_lateblt18413.jpg,Potato_Late_Blight,Potato_Late_Blight,1,0.769626,0.770909,0.998336,Potato,Potato,1,False
+D3,Field-collected Test Dataset (D3),id_100966_lateblt8996.jpg,D3/Potato/Potato_Late_Blight/id_100966_lateblt8996.jpg,Potato_Late_Blight,Potato_Late_Blight,1,0.610286,0.614686,0.992841,Potato,Potato,1,False
+D3,Field-collected Test Dataset (D3),id_101430_lateblt9412.jpg,D3/Potato/Potato_Late_Blight/id_101430_lateblt9412.jpg,Potato_Late_Blight,Potato_Late_Blight,1,0.514405,0.51448,0.999853,Potato,Potato,1,True
+D3,Field-collected Test Dataset (D3),ltblt98530.jpg,D3/Potato/Potato_Late_Blight/ltblt98530.jpg,Potato_Late_Blight,Potato_Late_Blight,1,0.793767,0.793824,0.999929,Potato,Potato,1,False
+D3,Field-collected Test Dataset (D3),photo_6_2026-04-19_09-14-60.jpg,D3/Potato/Potato_Late_Blight/photo_6_2026-04-19_09-14-60.jpg,Potato_Late_Blight,Potato_Late_Blight,1,0.689914,0.806603,0.855332,Potato,Potato,1,False
+D3,Field-collected Test Dataset (D3),102044.jpg,D3/Rice/Rice_Bacterial_Leaf_Blight/102044.jpg,Rice_Bacterial_Leaf_Blight,Rice_Bacterial_Leaf_Blight,1,0.384151,0.934486,0.411083,Rice,Rice,1,False
+D3,Field-collected Test Dataset (D3),103013.jpg,D3/Rice/Rice_Bacterial_Leaf_Blight/103013.jpg,Rice_Bacterial_Leaf_Blight,Rice_Bacterial_Leaf_Blight,1,0.510109,0.847861,0.601642,Rice,Rice,1,False
+D3,Field-collected Test Dataset (D3),103231.jpg,D3/Rice/Rice_Bacterial_Leaf_Blight/103231.jpg,Rice_Bacterial_Leaf_Blight,Rice_Sheath_Blight,0,0.688863,0.879278,0.783442,Rice,Rice,1,False
+D3,Field-collected Test Dataset (D3),103446.jpg,D3/Rice/Rice_Bacterial_Leaf_Blight/103446.jpg,Rice_Bacterial_Leaf_Blight,Rice_Bacterial_Leaf_Blight,1,0.794715,0.922023,0.861925,Rice,Rice,1,False
+D3,Field-collected Test Dataset (D3),108771.jpg,D3/Rice/Rice_Bacterial_Leaf_Blight/108771.jpg,Rice_Bacterial_Leaf_Blight,Rice_Bacterial_Leaf_Blight,1,0.623642,0.91953,0.678219,Rice,Rice,1,False
+D3,Field-collected Test Dataset (D3),id_126093_101169.jpg,D3/Rice/Rice_Bacterial_Leaf_Blight/id_126093_101169.jpg,Rice_Bacterial_Leaf_Blight,Rice_Bacterial_Leaf_Blight,1,0.478809,0.926301,0.516904,Rice,Rice,1,False
+D3,Field-collected Test Dataset (D3),id_126257_104458.jpg,D3/Rice/Rice_Bacterial_Leaf_Blight/id_126257_104458.jpg,Rice_Bacterial_Leaf_Blight,Rice_Bacterial_Leaf_Blight,1,0.725398,0.932776,0.777676,Rice,Rice,1,False
+D3,Field-collected Test Dataset (D3),id_126338_106141.jpg,D3/Rice/Rice_Bacterial_Leaf_Blight/id_126338_106141.jpg,Rice_Bacterial_Leaf_Blight,Rice_Bacterial_Leaf_Blight,1,0.336268,0.920428,0.365339,Rice,Rice,1,False
+D3,Field-collected Test Dataset (D3),LB_0088.jpg,D3/Rice/Rice_Bacterial_Leaf_Blight/LB_0088.jpg,Rice_Bacterial_Leaf_Blight,Rice_Bacterial_Leaf_Blight,1,0.8286,0.912269,0.908284,Rice,Rice,1,True
+D3,Field-collected Test Dataset (D3),LB_0090.jpg,D3/Rice/Rice_Bacterial_Leaf_Blight/LB_0090.jpg,Rice_Bacterial_Leaf_Blight,Rice_Bacterial_Leaf_Blight,1,0.486311,0.926465,0.52491,Rice,Rice,1,True
+D3,Field-collected Test Dataset (D3),LB_0409.jpg,D3/Rice/Rice_Bacterial_Leaf_Blight/LB_0409.jpg,Rice_Bacterial_Leaf_Blight,Rice_Bacterial_Leaf_Blight,1,0.69313,0.942675,0.735279,Rice,Rice,1,True
+D3,Field-collected Test Dataset (D3),LB_0440.jpg,D3/Rice/Rice_Bacterial_Leaf_Blight/LB_0440.jpg,Rice_Bacterial_Leaf_Blight,Rice_Bacterial_Leaf_Blight,1,0.469906,0.925492,0.507736,Rice,Rice,1,True
+D3,Field-collected Test Dataset (D3),LB_0977.jpg,D3/Rice/Rice_Bacterial_Leaf_Blight/LB_0977.jpg,Rice_Bacterial_Leaf_Blight,Rice_Bacterial_Leaf_Blight,1,0.62329,0.924709,0.674039,Rice,Rice,1,False
+D3,Field-collected Test Dataset (D3),LB_0980.jpg,D3/Rice/Rice_Bacterial_Leaf_Blight/LB_0980.jpg,Rice_Bacterial_Leaf_Blight,Rice_Bacterial_Leaf_Blight,1,0.39887,0.928694,0.429496,Rice,Rice,1,False
+D3,Field-collected Test Dataset (D3),photo_2_2026-04-19_09-19-33.jpg,D3/Rice/Rice_Bacterial_Leaf_Blight/photo_2_2026-04-19_09-19-33.jpg,Rice_Bacterial_Leaf_Blight,Rice_Bacterial_Leaf_Blight,1,0.494728,0.928632,0.532749,Rice,Rice,1,False
+D3,Field-collected Test Dataset (D3),photo_2_2026-04-19_09-19-34.jpg,D3/Rice/Rice_Bacterial_Leaf_Blight/photo_2_2026-04-19_09-19-34.jpg,Rice_Bacterial_Leaf_Blight,Rice_Bacterial_Leaf_Blight,1,0.773929,0.918373,0.842718,Rice,Rice,1,False
+D3,Field-collected Test Dataset (D3),SB_0018.jpg,D3/Rice/Rice_Bacterial_Leaf_Blight/SB_0018.jpg,Rice_Bacterial_Leaf_Blight,Rice_Bacterial_Leaf_Blight,1,0.852157,0.94835,0.898568,Rice,Rice,1,False
+D3,Field-collected Test Dataset (D3),104410.jpg,D3/Rice/Rice_Brown_Spot/104410.jpg,Rice_Brown_Spot,Rice_Brown_Spot,1,0.809157,0.885695,0.913584,Rice,Rice,1,False
+D3,Field-collected Test Dataset (D3),104413.jpg,D3/Rice/Rice_Brown_Spot/104413.jpg,Rice_Brown_Spot,Rice_Brown_Spot,1,0.877056,0.877269,0.999757,Rice,Rice,1,False
+D3,Field-collected Test Dataset (D3),104720.jpg,D3/Rice/Rice_Brown_Spot/104720.jpg,Rice_Brown_Spot,Rice_Brown_Spot,1,0.87087,0.870944,0.999915,Rice,Rice,1,False
+D3,Field-collected Test Dataset (D3),104725.jpg,D3/Rice/Rice_Brown_Spot/104725.jpg,Rice_Brown_Spot,Rice_Brown_Spot,1,0.816137,0.845136,0.965687,Rice,Rice,1,False
+D3,Field-collected Test Dataset (D3),104739.jpg,D3/Rice/Rice_Brown_Spot/104739.jpg,Rice_Brown_Spot,Rice_Brown_Spot,1,0.843357,0.853417,0.988212,Rice,Rice,1,False
+D3,Field-collected Test Dataset (D3),104776.jpg,D3/Rice/Rice_Brown_Spot/104776.jpg,Rice_Brown_Spot,Rice_Brown_Spot,1,0.866015,0.889112,0.974022,Rice,Rice,1,False
+D3,Field-collected Test Dataset (D3),104781.jpg,D3/Rice/Rice_Brown_Spot/104781.jpg,Rice_Brown_Spot,Rice_Brown_Spot,1,0.837219,0.849283,0.985795,Rice,Rice,1,False
+D3,Field-collected Test Dataset (D3),104783.jpg,D3/Rice/Rice_Brown_Spot/104783.jpg,Rice_Brown_Spot,Rice_Brown_Spot,1,0.841439,0.869563,0.967657,Rice,Rice,1,False
+D3,Field-collected Test Dataset (D3),104888.jpg,D3/Rice/Rice_Brown_Spot/104888.jpg,Rice_Brown_Spot,Rice_Leaf_Blast,0,0.658198,0.938611,0.701247,Rice,Rice,1,True
+D3,Field-collected Test Dataset (D3),104968.jpg,D3/Rice/Rice_Brown_Spot/104968.jpg,Rice_Brown_Spot,Rice_Brown_Spot,1,0.878527,0.889759,0.987376,Rice,Rice,1,False
+D3,Field-collected Test Dataset (D3),104997.jpg,D3/Rice/Rice_Brown_Spot/104997.jpg,Rice_Brown_Spot,Rice_Brown_Spot,1,0.761312,0.89571,0.849953,Rice,Rice,1,False
+D3,Field-collected Test Dataset (D3),105177.jpg,D3/Rice/Rice_Brown_Spot/105177.jpg,Rice_Brown_Spot,Rice_Brown_Spot,1,0.889653,0.891574,0.997845,Rice,Rice,1,False
+D3,Field-collected Test Dataset (D3),105209.jpg,D3/Rice/Rice_Brown_Spot/105209.jpg,Rice_Brown_Spot,Rice_Brown_Spot,1,0.885156,0.894022,0.990084,Rice,Rice,1,False
+D3,Field-collected Test Dataset (D3),photo_11_2026-04-19_09-19-32.jpg,D3/Rice/Rice_Brown_Spot/photo_11_2026-04-19_09-19-32.jpg,Rice_Brown_Spot,Rice_Brown_Spot,1,0.919442,0.919928,0.999472,Rice,Rice,1,False
+D3,Field-collected Test Dataset (D3),photo_14_2026-04-19_09-19-32.jpg,D3/Rice/Rice_Brown_Spot/photo_14_2026-04-19_09-19-32.jpg,Rice_Brown_Spot,Rice_Brown_Spot,1,0.419942,0.63975,0.656416,Rice,Rice,1,False
+D3,Field-collected Test Dataset (D3),photo_15_2026-04-19_09-19-32.jpg,D3/Rice/Rice_Brown_Spot/photo_15_2026-04-19_09-19-32.jpg,Rice_Brown_Spot,Rice_Brown_Spot,1,0.640038,0.950711,0.673221,Rice,Rice,1,False
+D3,Field-collected Test Dataset (D3),photo_17_2026-04-19_09-19-32.jpg,D3/Rice/Rice_Brown_Spot/photo_17_2026-04-19_09-19-32.jpg,Rice_Brown_Spot,Rice_Brown_Spot,1,0.791874,0.935679,0.846309,Rice,Rice,1,False
+D3,Field-collected Test Dataset (D3),photo_18_2026-04-19_09-19-32.jpg,D3/Rice/Rice_Brown_Spot/photo_18_2026-04-19_09-19-32.jpg,Rice_Brown_Spot,Rice_Brown_Spot,1,0.66904,0.878158,0.761868,Rice,Rice,1,False
+D3,Field-collected Test Dataset (D3),photo_19_2026-04-19_09-19-32.jpg,D3/Rice/Rice_Brown_Spot/photo_19_2026-04-19_09-19-32.jpg,Rice_Brown_Spot,Rice_Brown_Spot,1,0.727432,0.911564,0.798004,Rice,Rice,1,False
+D3,Field-collected Test Dataset (D3),photo_9_2026-04-19_09-19-32.jpg,D3/Rice/Rice_Brown_Spot/photo_9_2026-04-19_09-19-32.jpg,Rice_Brown_Spot,Rice_Brown_Spot,1,0.92438,0.927408,0.996735,Rice,Rice,1,False
+D3,Field-collected Test Dataset (D3),100652.jpg,D3/Rice/Rice_Healthy/100652.jpg,Rice_Healthy,Rice_Healthy,1,0.712272,0.842115,0.845813,Rice,Rice,1,False
+D3,Field-collected Test Dataset (D3),100653.jpg,D3/Rice/Rice_Healthy/100653.jpg,Rice_Healthy,Rice_Healthy,1,0.730719,0.899343,0.812503,Rice,Rice,1,False
+D3,Field-collected Test Dataset (D3),100671.jpg,D3/Rice/Rice_Healthy/100671.jpg,Rice_Healthy,Rice_Healthy,1,0.890856,0.916264,0.97227,Rice,Rice,1,False
+D3,Field-collected Test Dataset (D3),100681.jpg,D3/Rice/Rice_Healthy/100681.jpg,Rice_Healthy,Rice_Healthy,1,0.734032,0.896147,0.819098,Rice,Rice,1,False
+D3,Field-collected Test Dataset (D3),100702.jpg,D3/Rice/Rice_Healthy/100702.jpg,Rice_Healthy,Rice_Healthy,1,0.870732,0.881143,0.988184,Rice,Rice,1,True
+D3,Field-collected Test Dataset (D3),101485.jpg,D3/Rice/Rice_Healthy/101485.jpg,Rice_Healthy,Rice_Healthy,1,0.497671,0.90174,0.551901,Rice,Rice,1,False
+D3,Field-collected Test Dataset (D3),101530.jpg,D3/Rice/Rice_Healthy/101530.jpg,Rice_Healthy,Rice_Healthy,1,0.721192,0.884708,0.815175,Rice,Rice,1,False
+D3,Field-collected Test Dataset (D3),101531.jpg,D3/Rice/Rice_Healthy/101531.jpg,Rice_Healthy,Rice_Healthy,1,0.477777,0.857201,0.557369,Rice,Rice,1,False
+D3,Field-collected Test Dataset (D3),101555.jpg,D3/Rice/Rice_Healthy/101555.jpg,Rice_Healthy,Rice_Healthy,1,0.671046,0.906057,0.740622,Rice,Rice,1,False
+D3,Field-collected Test Dataset (D3),101569.jpg,D3/Rice/Rice_Healthy/101569.jpg,Rice_Healthy,Rice_Healthy,1,0.633586,0.890552,0.711453,Rice,Rice,1,False
+D3,Field-collected Test Dataset (D3),101573.jpg,D3/Rice/Rice_Healthy/101573.jpg,Rice_Healthy,Rice_Healthy,1,0.456372,0.905311,0.504105,Rice,Rice,1,False
+D3,Field-collected Test Dataset (D3),102199.jpg,D3/Rice/Rice_Healthy/102199.jpg,Rice_Healthy,Rice_Healthy,1,0.563492,0.861386,0.654169,Rice,Rice,1,False
+D3,Field-collected Test Dataset (D3),102515.jpg,D3/Rice/Rice_Healthy/102515.jpg,Rice_Healthy,Rice_Healthy,1,0.796353,0.897734,0.887071,Rice,Rice,1,False
+D3,Field-collected Test Dataset (D3),102533.jpg,D3/Rice/Rice_Healthy/102533.jpg,Rice_Healthy,Rice_Healthy,1,0.743722,0.892873,0.832955,Rice,Rice,1,False
+D3,Field-collected Test Dataset (D3),102571.jpg,D3/Rice/Rice_Healthy/102571.jpg,Rice_Healthy,Rice_Healthy,1,0.812695,0.935613,0.868624,Rice,Rice,1,False
+D3,Field-collected Test Dataset (D3),103165.jpg,D3/Rice/Rice_Healthy/103165.jpg,Rice_Healthy,Rice_Healthy,1,0.592581,0.906524,0.653685,Rice,Rice,1,False
+D3,Field-collected Test Dataset (D3),103923.jpg,D3/Rice/Rice_Healthy/103923.jpg,Rice_Healthy,Rice_Healthy,1,0.903978,0.906139,0.997615,Rice,Rice,1,False
+D3,Field-collected Test Dataset (D3),103975.jpg,D3/Rice/Rice_Healthy/103975.jpg,Rice_Healthy,Rice_Healthy,1,0.892183,0.901471,0.989697,Rice,Rice,1,False
+D3,Field-collected Test Dataset (D3),103997.jpg,D3/Rice/Rice_Healthy/103997.jpg,Rice_Healthy,Rice_Healthy,1,0.390535,0.901001,0.433446,Rice,Rice,1,False
+D3,Field-collected Test Dataset (D3),104024.jpg,D3/Rice/Rice_Healthy/104024.jpg,Rice_Healthy,Rice_Healthy,1,0.880436,0.892595,0.986378,Rice,Rice,1,False
+D3,Field-collected Test Dataset (D3),photo_10_2026-04-19_09-19-32.jpg,D3/Rice/Rice_Healthy/photo_10_2026-04-19_09-19-32.jpg,Rice_Healthy,Rice_Healthy,1,0.929612,0.929708,0.999896,Rice,Rice,1,False
+D3,Field-collected Test Dataset (D3),photo_3_2026-04-19_09-19-32.jpg,D3/Rice/Rice_Healthy/photo_3_2026-04-19_09-19-32.jpg,Rice_Healthy,Rice_Healthy,1,0.883346,0.895818,0.986077,Rice,Rice,1,False
+D3,Field-collected Test Dataset (D3),photo_4_2026-04-19_09-19-32.jpg,D3/Rice/Rice_Healthy/photo_4_2026-04-19_09-19-32.jpg,Rice_Healthy,Rice_Healthy,1,0.853501,0.855703,0.997426,Rice,Rice,1,False
+D3,Field-collected Test Dataset (D3),photo_8_2026-04-19_09-19-32.jpg,D3/Rice/Rice_Healthy/photo_8_2026-04-19_09-19-32.jpg,Rice_Healthy,Rice_Healthy,1,0.763197,0.9049,0.843405,Rice,Rice,1,False
+D3,Field-collected Test Dataset (D3),101701.jpg,D3/Rice/Rice_Leaf_Blast/101701.jpg,Rice_Leaf_Blast,Rice_Leaf_Blast,1,0.241972,0.693664,0.348831,Rice,Rice,1,False
+D3,Field-collected Test Dataset (D3),107263.jpg,D3/Rice/Rice_Leaf_Blast/107263.jpg,Rice_Leaf_Blast,Rice_Leaf_Blast,1,0.4781,0.877665,0.54474,Rice,Rice,1,False
+D3,Field-collected Test Dataset (D3),id_004608_LB_0953.jpg,D3/Rice/Rice_Leaf_Blast/id_004608_LB_0953.jpg,Rice_Leaf_Blast,Rice_Leaf_Blast,1,0.879235,0.937285,0.938066,Rice,Rice,1,True
+D3,Field-collected Test Dataset (D3),id_004609_LB_0954.jpg,D3/Rice/Rice_Leaf_Blast/id_004609_LB_0954.jpg,Rice_Leaf_Blast,Rice_Leaf_Blast,1,0.844277,0.921725,0.915975,Rice,Rice,1,True
+D3,Field-collected Test Dataset (D3),id_004610_LB_0955.jpg,D3/Rice/Rice_Leaf_Blast/id_004610_LB_0955.jpg,Rice_Leaf_Blast,Rice_Leaf_Blast,1,0.589601,0.925039,0.637379,Rice,Rice,1,False
+D3,Field-collected Test Dataset (D3),id_004621_LB_0966 - Copy.jpg,D3/Rice/Rice_Leaf_Blast/id_004621_LB_0966 - Copy.jpg,Rice_Leaf_Blast,Rice_Leaf_Blast,1,0.914045,0.930417,0.982404,Rice,Rice,1,False
+D3,Field-collected Test Dataset (D3),id_004621_LB_0966.jpg,D3/Rice/Rice_Leaf_Blast/id_004621_LB_0966.jpg,Rice_Leaf_Blast,Rice_Leaf_Blast,1,0.914045,0.930417,0.982404,Rice,Rice,1,True
+D3,Field-collected Test Dataset (D3),id_004652_LB_0997.jpg,D3/Rice/Rice_Leaf_Blast/id_004652_LB_0997.jpg,Rice_Leaf_Blast,Rice_Leaf_Blast,1,0.81854,0.930587,0.879595,Rice,Rice,1,True
+D3,Field-collected Test Dataset (D3),id_004653_LB_0998.jpg,D3/Rice/Rice_Leaf_Blast/id_004653_LB_0998.jpg,Rice_Leaf_Blast,Rice_Leaf_Blast,1,0.718645,0.94092,0.763768,Rice,Rice,1,True
+D3,Field-collected Test Dataset (D3),id_004662_LB_1007.jpg,D3/Rice/Rice_Leaf_Blast/id_004662_LB_1007.jpg,Rice_Leaf_Blast,Rice_Leaf_Blast,1,0.719871,0.938026,0.767432,Rice,Rice,1,True
+D3,Field-collected Test Dataset (D3),id_004690_LB_1035.jpg,D3/Rice/Rice_Leaf_Blast/id_004690_LB_1035.jpg,Rice_Leaf_Blast,Rice_Leaf_Blast,1,0.6484,0.932329,0.695463,Rice,Rice,1,True
+D3,Field-collected Test Dataset (D3),id_004691_LB_1036.jpg,D3/Rice/Rice_Leaf_Blast/id_004691_LB_1036.jpg,Rice_Leaf_Blast,Rice_Leaf_Blast,1,0.740381,0.922588,0.802505,Rice,Rice,1,True
+D3,Field-collected Test Dataset (D3),photo_1_2026-04-19_09-19-32.jpg,D3/Rice/Rice_Leaf_Blast/photo_1_2026-04-19_09-19-32.jpg,Rice_Leaf_Blast,Rice_Leaf_Blast,1,0.46343,0.896431,0.516972,Rice,Rice,1,False
+D3,Field-collected Test Dataset (D3),photo_20_2026-04-19_09-19-32.jpg,D3/Rice/Rice_Leaf_Blast/photo_20_2026-04-19_09-19-32.jpg,Rice_Leaf_Blast,Rice_Leaf_Blast,1,0.923516,0.929649,0.993403,Rice,Rice,1,False
+D3,Field-collected Test Dataset (D3),100185.jpg,D3/Rice/Rice_Sheath_Blight/100185.jpg,Rice_Sheath_Blight,Rice_Sheath_Blight,1,0.493053,0.883887,0.557823,Rice,Rice,1,False
+D3,Field-collected Test Dataset (D3),100926.jpg,D3/Rice/Rice_Sheath_Blight/100926.jpg,Rice_Sheath_Blight,Rice_Sheath_Blight,1,0.620813,0.887623,0.699411,Rice,Rice,1,False
+D3,Field-collected Test Dataset (D3),101265.jpg,D3/Rice/Rice_Sheath_Blight/101265.jpg,Rice_Sheath_Blight,Rice_Sheath_Blight,1,0.664477,0.889504,0.747019,Rice,Rice,1,False
+D3,Field-collected Test Dataset (D3),102864.jpg,D3/Rice/Rice_Sheath_Blight/102864.jpg,Rice_Sheath_Blight,Rice_Sheath_Blight,1,0.815019,0.937136,0.869691,Rice,Rice,1,True
+D3,Field-collected Test Dataset (D3),102959.jpg,D3/Rice/Rice_Sheath_Blight/102959.jpg,Rice_Sheath_Blight,Rice_Sheath_Blight,1,0.558596,0.914875,0.610572,Rice,Rice,1,False
+D3,Field-collected Test Dataset (D3),103002.jpg,D3/Rice/Rice_Sheath_Blight/103002.jpg,Rice_Sheath_Blight,Rice_Sheath_Blight,1,0.888566,0.924365,0.961271,Rice,Rice,1,False
+D3,Field-collected Test Dataset (D3),105003.jpg,D3/Rice/Rice_Sheath_Blight/105003.jpg,Rice_Sheath_Blight,Rice_Sheath_Blight,1,0.44435,0.917628,0.484237,Rice,Rice,1,False
+D3,Field-collected Test Dataset (D3),106133.jpg,D3/Rice/Rice_Sheath_Blight/106133.jpg,Rice_Sheath_Blight,Rice_Sheath_Blight,1,0.597939,0.889813,0.671983,Rice,Rice,1,False
+D3,Field-collected Test Dataset (D3),108202.jpg,D3/Rice/Rice_Sheath_Blight/108202.jpg,Rice_Sheath_Blight,Rice_Sheath_Blight,1,0.64768,0.932197,0.694788,Rice,Rice,1,False
+D3,Field-collected Test Dataset (D3),108994.jpg,D3/Rice/Rice_Sheath_Blight/108994.jpg,Rice_Sheath_Blight,Rice_Sheath_Blight,1,0.558309,0.880269,0.634249,Rice,Rice,1,False
+D3,Field-collected Test Dataset (D3),109311.jpg,D3/Rice/Rice_Sheath_Blight/109311.jpg,Rice_Sheath_Blight,Rice_Sheath_Blight,1,0.924106,0.934408,0.988975,Rice,Rice,1,False
+D3,Field-collected Test Dataset (D3),109369.jpg,D3/Rice/Rice_Sheath_Blight/109369.jpg,Rice_Sheath_Blight,Rice_Sheath_Blight,1,0.834712,0.892655,0.93509,Rice,Rice,1,True
+D3,Field-collected Test Dataset (D3),LB_0889.jpg,D3/Rice/Rice_Sheath_Blight/LB_0889.jpg,Rice_Sheath_Blight,Rice_Sheath_Blight,1,0.359673,0.918024,0.391791,Rice,Rice,1,False
+D3,Field-collected Test Dataset (D3),photo_2_2026-04-19_09-19-32.jpg,D3/Rice/Rice_Sheath_Blight/photo_2_2026-04-19_09-19-32.jpg,Rice_Sheath_Blight,Rice_Sheath_Blight,1,0.890667,0.933508,0.954107,Rice,Rice,1,False
+D3,Field-collected Test Dataset (D3),photo_5_2026-04-19_09-19-32.jpg,D3/Rice/Rice_Sheath_Blight/photo_5_2026-04-19_09-19-32.jpg,Rice_Sheath_Blight,Rice_Sheath_Blight,1,0.635882,0.834467,0.762022,Rice,Rice,1,False
+D3,Field-collected Test Dataset (D3),photo_6_2026-04-19_09-19-32.jpg,D3/Rice/Rice_Sheath_Blight/photo_6_2026-04-19_09-19-32.jpg,Rice_Sheath_Blight,Rice_Sheath_Blight,1,0.691734,0.692882,0.998343,Rice,Rice,1,False
+D3,Field-collected Test Dataset (D3),photo_7_2026-04-19_09-19-32.jpg,D3/Rice/Rice_Sheath_Blight/photo_7_2026-04-19_09-19-32.jpg,Rice_Sheath_Blight,Rice_Brown_Spot,0,0.850119,0.935305,0.908922,Rice,Rice,1,False
+D3,Field-collected Test Dataset (D3),D (302).jpg,D3/Tomato/Tomato_Bacterial_Spot/D (302).jpg,Tomato_Bacterial_Spot,Tomato_Bacterial_Spot,1,0.458789,0.816941,0.561594,Tomato,Tomato,1,False
+D3,Field-collected Test Dataset (D3),D (325).jpg,D3/Tomato/Tomato_Bacterial_Spot/D (325).jpg,Tomato_Bacterial_Spot,Tomato_Bacterial_Spot,1,0.638994,0.681141,0.938122,Tomato,Tomato,1,False
+D3,Field-collected Test Dataset (D3),D (337).jpg,D3/Tomato/Tomato_Bacterial_Spot/D (337).jpg,Tomato_Bacterial_Spot,Tomato_Bacterial_Spot,1,0.526965,0.766583,0.68742,Tomato,Tomato,1,False
+D3,Field-collected Test Dataset (D3),D (339).jpg,D3/Tomato/Tomato_Bacterial_Spot/D (339).jpg,Tomato_Bacterial_Spot,Tomato_Bacterial_Spot,1,0.653791,0.678182,0.964034,Tomato,Tomato,1,False
+D3,Field-collected Test Dataset (D3),D (356).jpg,D3/Tomato/Tomato_Bacterial_Spot/D (356).jpg,Tomato_Bacterial_Spot,Tomato_Bacterial_Spot,1,0.575982,0.695703,0.827914,Tomato,Tomato,1,False
+D3,Field-collected Test Dataset (D3),D (357).jpg,D3/Tomato/Tomato_Bacterial_Spot/D (357).jpg,Tomato_Bacterial_Spot,Tomato_Bacterial_Spot,1,0.853809,0.870039,0.981345,Tomato,Tomato,1,False
+D3,Field-collected Test Dataset (D3),D (378).jpg,D3/Tomato/Tomato_Bacterial_Spot/D (378).jpg,Tomato_Bacterial_Spot,Tomato_Bacterial_Spot,1,0.638092,0.842136,0.757707,Tomato,Tomato,1,False
+D3,Field-collected Test Dataset (D3),D (398).jpg,D3/Tomato/Tomato_Bacterial_Spot/D (398).jpg,Tomato_Bacterial_Spot,Tomato_Bacterial_Spot,1,0.880326,0.880844,0.999411,Tomato,Tomato,1,True
+D3,Field-collected Test Dataset (D3),D (399).jpg,D3/Tomato/Tomato_Bacterial_Spot/D (399).jpg,Tomato_Bacterial_Spot,Tomato_Bacterial_Spot,1,0.788024,0.795018,0.991203,Tomato,Tomato,1,False
+D3,Field-collected Test Dataset (D3),D (420).jpg,D3/Tomato/Tomato_Bacterial_Spot/D (420).jpg,Tomato_Bacterial_Spot,Tomato_Bacterial_Spot,1,0.442858,0.698884,0.633665,Tomato,Tomato,1,True
+D3,Field-collected Test Dataset (D3),D (422).jpg,D3/Tomato/Tomato_Bacterial_Spot/D (422).jpg,Tomato_Bacterial_Spot,Tomato_Bacterial_Spot,1,0.202276,0.683087,0.29612,Tomato,Tomato,1,False
+D3,Field-collected Test Dataset (D3),D (424).jpg,D3/Tomato/Tomato_Bacterial_Spot/D (424).jpg,Tomato_Bacterial_Spot,Tomato_Yellow_Leaf_Curl_Virus,0,0.775426,0.802359,0.966433,Tomato,Tomato,1,False
+D3,Field-collected Test Dataset (D3),D (432).jpg,D3/Tomato/Tomato_Bacterial_Spot/D (432).jpg,Tomato_Bacterial_Spot,Tomato_Bacterial_Spot,1,0.784793,0.793812,0.988639,Tomato,Tomato,1,True
+D3,Field-collected Test Dataset (D3),images.jpg,D3/Tomato/Tomato_Bacterial_Spot/images.jpg,Tomato_Bacterial_Spot,Tomato_Bacterial_Spot,1,0.343104,0.555379,0.617782,Tomato,Tomato,1,False
+D3,Field-collected Test Dataset (D3),photo_3_2026-04-19_09-34-223.jpg,D3/Tomato/Tomato_Bacterial_Spot/photo_3_2026-04-19_09-34-223.jpg,Tomato_Bacterial_Spot,Tomato_Bacterial_Spot,1,0.754508,0.889177,0.848546,Tomato,Tomato,1,False
+D3,Field-collected Test Dataset (D3),photo_3_2026-04-19_09-34-26.jpg,D3/Tomato/Tomato_Bacterial_Spot/photo_3_2026-04-19_09-34-26.jpg,Tomato_Bacterial_Spot,Tomato_Bacterial_Spot,1,0.443133,0.567485,0.780872,Tomato,Tomato,1,False
+D3,Field-collected Test Dataset (D3),photo_3_2026-04-19_09-34-29.jpg,D3/Tomato/Tomato_Bacterial_Spot/photo_3_2026-04-19_09-34-29.jpg,Tomato_Bacterial_Spot,Tomato_Bacterial_Spot,1,0.769202,0.889846,0.864421,Tomato,Tomato,1,False
+D3,Field-collected Test Dataset (D3),Septoria_Leaf_Spot_of_Tomato2241-450x300.jpg,D3/Tomato/Tomato_Bacterial_Spot/Septoria_Leaf_Spot_of_Tomato2241-450x300.jpg,Tomato_Bacterial_Spot,Tomato_Bacterial_Spot,1,0.604217,0.61921,0.975786,Tomato,Tomato,1,True
+D3,Field-collected Test Dataset (D3),spdmite97994.jpg,D3/Tomato/Tomato_Bacterial_Spot/spdmite97994.jpg,Tomato_Bacterial_Spot,Tomato_Spider_Mites,0,0.590724,0.947861,0.623218,Tomato,Tomato,1,False
+D3,Field-collected Test Dataset (D3),SS_ (974).jpg,D3/Tomato/Tomato_Bacterial_Spot/SS_ (974).jpg,Tomato_Bacterial_Spot,Tomato_Bacterial_Spot,1,0.500132,0.510666,0.979372,Tomato,Tomato,1,False
+D3,Field-collected Test Dataset (D3),tomato-septoria-3.jpg,D3/Tomato/Tomato_Bacterial_Spot/tomato-septoria-3.jpg,Tomato_Bacterial_Spot,Tomato_Bacterial_Spot,1,0.439991,0.591597,0.743735,Tomato,Tomato,1,True
+D3,Field-collected Test Dataset (D3),1723454507465.jpg,D3/Tomato/Tomato_Early_Blight/1723454507465.jpg,Tomato_Early_Blight,Tomato_Late_Blight,0,0.306606,0.624393,0.491046,Tomato,Tomato,1,False
+D3,Field-collected Test Dataset (D3),IMG_20260219_121158.jpg,D3/Tomato/Tomato_Early_Blight/IMG_20260219_121158.jpg,Tomato_Early_Blight,Tomato_Early_Blight,1,0.476003,0.639744,0.744053,Tomato,Tomato,1,False
+D3,Field-collected Test Dataset (D3),IMG_20260219_121203.jpg,D3/Tomato/Tomato_Early_Blight/IMG_20260219_121203.jpg,Tomato_Early_Blight,Tomato_Early_Blight,1,0.519435,0.743569,0.69857,Tomato,Tomato,1,False
+D3,Field-collected Test Dataset (D3),IMG_20260219_121312.jpg,D3/Tomato/Tomato_Early_Blight/IMG_20260219_121312.jpg,Tomato_Early_Blight,Tomato_Early_Blight,1,0.731109,0.731205,0.999868,Tomato,Tomato,1,False
+D3,Field-collected Test Dataset (D3),IMG_20260219_121315.jpg,D3/Tomato/Tomato_Early_Blight/IMG_20260219_121315.jpg,Tomato_Early_Blight,Tomato_Early_Blight,1,0.424587,0.502893,0.84429,Tomato,Tomato,1,False
+D3,Field-collected Test Dataset (D3),IMG_20260219_121340.jpg,D3/Tomato/Tomato_Early_Blight/IMG_20260219_121340.jpg,Tomato_Early_Blight,Tomato_Early_Blight,1,0.475746,0.803631,0.591995,Tomato,Tomato,1,False
+D3,Field-collected Test Dataset (D3),IMG_20260219_121343.jpg,D3/Tomato/Tomato_Early_Blight/IMG_20260219_121343.jpg,Tomato_Early_Blight,Tomato_Early_Blight,1,0.556046,0.82136,0.676983,Tomato,Tomato,1,False
+D3,Field-collected Test Dataset (D3),IMG_20260219_121349.jpg,D3/Tomato/Tomato_Early_Blight/IMG_20260219_121349.jpg,Tomato_Early_Blight,Tomato_Early_Blight,1,0.572536,0.574821,0.996026,Tomato,Tomato,1,False
+D3,Field-collected Test Dataset (D3),IMG_20260219_121403.jpg,D3/Tomato/Tomato_Early_Blight/IMG_20260219_121403.jpg,Tomato_Early_Blight,Tomato_Early_Blight,1,0.740105,0.768423,0.963149,Tomato,Tomato,1,False
+D3,Field-collected Test Dataset (D3),IMG_20260219_121405.jpg,D3/Tomato/Tomato_Early_Blight/IMG_20260219_121405.jpg,Tomato_Early_Blight,Tomato_Early_Blight,1,0.477352,0.578167,0.82563,Tomato,Tomato,1,False
+D3,Field-collected Test Dataset (D3),IMG_20260219_121411.jpg,D3/Tomato/Tomato_Early_Blight/IMG_20260219_121411.jpg,Tomato_Early_Blight,Tomato_Early_Blight,1,0.518503,0.526603,0.984619,Tomato,Tomato,1,False
+D3,Field-collected Test Dataset (D3),IMG_20260219_121413.jpg,D3/Tomato/Tomato_Early_Blight/IMG_20260219_121413.jpg,Tomato_Early_Blight,Tomato_Early_Blight,1,0.687486,0.716196,0.959913,Tomato,Tomato,1,False
+D3,Field-collected Test Dataset (D3),IMG_20260219_121434.jpg,D3/Tomato/Tomato_Early_Blight/IMG_20260219_121434.jpg,Tomato_Early_Blight,Tomato_Early_Blight,1,0.793914,0.793914,1.0,Tomato,Tomato,1,False
+D3,Field-collected Test Dataset (D3),IMG_20260219_121454.jpg,D3/Tomato/Tomato_Early_Blight/IMG_20260219_121454.jpg,Tomato_Early_Blight,Tomato_Early_Blight,1,0.471226,0.77422,0.608646,Tomato,Tomato,1,False
+D3,Field-collected Test Dataset (D3),IMG_20260219_121456.jpg,D3/Tomato/Tomato_Early_Blight/IMG_20260219_121456.jpg,Tomato_Early_Blight,Tomato_Early_Blight,1,0.660566,0.661438,0.998682,Tomato,Tomato,1,False
+D3,Field-collected Test Dataset (D3),IMG_20260219_121619.jpg,D3/Tomato/Tomato_Early_Blight/IMG_20260219_121619.jpg,Tomato_Early_Blight,Tomato_Early_Blight,1,0.602094,0.6021,0.999991,Tomato,Tomato,1,False
+D3,Field-collected Test Dataset (D3),IMG_20260219_121629.jpg,D3/Tomato/Tomato_Early_Blight/IMG_20260219_121629.jpg,Tomato_Early_Blight,Tomato_Early_Blight,1,0.50621,0.511028,0.990573,Tomato,Tomato,1,False
+D3,Field-collected Test Dataset (D3),IMG_20260219_121951.jpg,D3/Tomato/Tomato_Early_Blight/IMG_20260219_121951.jpg,Tomato_Early_Blight,Tomato_Early_Blight,1,0.566776,0.582098,0.973679,Tomato,Tomato,1,False
+D3,Field-collected Test Dataset (D3),IMG_20260219_121959.jpg,D3/Tomato/Tomato_Early_Blight/IMG_20260219_121959.jpg,Tomato_Early_Blight,Tomato_Early_Blight,1,0.663565,0.666026,0.996305,Tomato,Tomato,1,False
+D3,Field-collected Test Dataset (D3),IMG_20260219_122006.jpg,D3/Tomato/Tomato_Early_Blight/IMG_20260219_122006.jpg,Tomato_Early_Blight,Tomato_Early_Blight,1,0.697588,0.697908,0.999542,Tomato,Tomato,1,False
+D3,Field-collected Test Dataset (D3),IMG_20260219_122328.jpg,D3/Tomato/Tomato_Early_Blight/IMG_20260219_122328.jpg,Tomato_Early_Blight,Tomato_Early_Blight,1,0.676414,0.692121,0.977306,Tomato,Tomato,1,False
+D3,Field-collected Test Dataset (D3),IMG_20260219_122451.jpg,D3/Tomato/Tomato_Early_Blight/IMG_20260219_122451.jpg,Tomato_Early_Blight,Tomato_Early_Blight,1,0.680299,0.681488,0.998256,Tomato,Tomato,1,False
+D3,Field-collected Test Dataset (D3),IMG_20260219_122855.jpg,D3/Tomato/Tomato_Early_Blight/IMG_20260219_122855.jpg,Tomato_Early_Blight,Tomato_Early_Blight,1,0.346629,0.655438,0.528851,Tomato,Tomato,1,False
+D3,Field-collected Test Dataset (D3),IMG_20260219_122916.jpg,D3/Tomato/Tomato_Early_Blight/IMG_20260219_122916.jpg,Tomato_Early_Blight,Tomato_Early_Blight,1,0.487734,0.48787,0.999722,Tomato,Tomato,1,False
+D3,Field-collected Test Dataset (D3),IMG_20260219_122935.jpg,D3/Tomato/Tomato_Early_Blight/IMG_20260219_122935.jpg,Tomato_Early_Blight,Tomato_Early_Blight,1,0.421541,0.481342,0.875762,Tomato,Tomato,1,False
+D3,Field-collected Test Dataset (D3),IMG_20260219_123333.jpg,D3/Tomato/Tomato_Early_Blight/IMG_20260219_123333.jpg,Tomato_Early_Blight,Tomato_Early_Blight,1,0.507328,0.566819,0.895044,Tomato,Tomato,1,False
+D3,Field-collected Test Dataset (D3),photo_15_2026-04-19_09-34-25.jpg,D3/Tomato/Tomato_Early_Blight/photo_15_2026-04-19_09-34-25.jpg,Tomato_Early_Blight,Tomato_Early_Blight,1,0.388722,0.730348,0.532242,Tomato,Tomato,1,False
+D3,Field-collected Test Dataset (D3),1.jpg,D3/Tomato/Tomato_Healthy/1.jpg,Tomato_Healthy,Tomato_Healthy,1,0.515221,0.5554,0.927657,Tomato,Tomato,1,False
+D3,Field-collected Test Dataset (D3),2.jpg,D3/Tomato/Tomato_Healthy/2.jpg,Tomato_Healthy,Tomato_Healthy,1,0.369231,0.541004,0.682493,Tomato,Tomato,1,False
+D3,Field-collected Test Dataset (D3),305.jpg,D3/Tomato/Tomato_Healthy/305.jpg,Tomato_Healthy,Tomato_Healthy,1,0.692051,0.704868,0.981818,Tomato,Tomato,1,True
+D3,Field-collected Test Dataset (D3),312.jpg,D3/Tomato/Tomato_Healthy/312.jpg,Tomato_Healthy,Tomato_Healthy,1,0.75799,0.898086,0.844006,Tomato,Tomato,1,True
+D3,Field-collected Test Dataset (D3),313.jpg,D3/Tomato/Tomato_Healthy/313.jpg,Tomato_Healthy,Tomato_Healthy,1,0.42873,0.716485,0.598379,Tomato,Tomato,1,False
+D3,Field-collected Test Dataset (D3),449.jpg,D3/Tomato/Tomato_Healthy/449.jpg,Tomato_Healthy,Tomato_Healthy,1,0.749622,0.753029,0.995476,Tomato,Tomato,1,False
+D3,Field-collected Test Dataset (D3),Brown-Spots-on-Tomato-Leaves.jpg,D3/Tomato/Tomato_Healthy/Brown-Spots-on-Tomato-Leaves.jpg,Tomato_Healthy,Tomato_Healthy,1,0.660065,0.722311,0.913824,Tomato,Tomato,1,True
+D3,Field-collected Test Dataset (D3),D (330).jpg,D3/Tomato/Tomato_Healthy/D (330).jpg,Tomato_Healthy,Tomato_Healthy,1,0.260717,0.582956,0.447233,Tomato,Tomato,1,False
+D3,Field-collected Test Dataset (D3),D (373).jpg,D3/Tomato/Tomato_Healthy/D (373).jpg,Tomato_Healthy,Tomato_Healthy,1,0.397233,0.48668,0.816211,Tomato,Tomato,1,False
+D3,Field-collected Test Dataset (D3),D (384).jpg,D3/Tomato/Tomato_Healthy/D (384).jpg,Tomato_Healthy,Tomato_Healthy,1,0.233454,0.554179,0.421261,Tomato,Tomato,1,False
+D3,Field-collected Test Dataset (D3),HL_(31).jpg,D3/Tomato/Tomato_Healthy/HL_(31).jpg,Tomato_Healthy,Tomato_Healthy,1,0.42409,0.50506,0.839683,Tomato,Tomato,1,True
+D3,Field-collected Test Dataset (D3),id_000746_131.png,D3/Tomato/Tomato_Healthy/id_000746_131.png,Tomato_Healthy,Tomato_Healthy,1,0.358466,0.531654,0.674246,Tomato,Tomato,1,False
+D3,Field-collected Test Dataset (D3),id_000753_144.png,D3/Tomato/Tomato_Healthy/id_000753_144.png,Tomato_Healthy,Tomato_Healthy,1,0.783466,0.804066,0.974379,Tomato,Tomato,1,False
+D3,Field-collected Test Dataset (D3),id_000768_160.png,D3/Tomato/Tomato_Healthy/id_000768_160.png,Tomato_Healthy,Tomato_Healthy,1,0.360234,0.689815,0.522218,Tomato,Tomato,1,False
+D3,Field-collected Test Dataset (D3),IMG_20251102_153119.jpg,D3/Tomato/Tomato_Healthy/IMG_20251102_153119.jpg,Tomato_Healthy,Tomato_Healthy,1,0.446887,0.528695,0.845265,Tomato,Tomato,1,False
+D3,Field-collected Test Dataset (D3),IMG_20251102_154339.jpg,D3/Tomato/Tomato_Healthy/IMG_20251102_154339.jpg,Tomato_Healthy,Tomato_Healthy,1,0.40687,0.552059,0.737004,Tomato,Tomato,1,False
+D3,Field-collected Test Dataset (D3),IMG_20251102_155119.jpg,D3/Tomato/Tomato_Healthy/IMG_20251102_155119.jpg,Tomato_Healthy,Tomato_Healthy,1,0.302055,0.483267,0.625026,Tomato,Tomato,1,False
+D3,Field-collected Test Dataset (D3),IMG_20251102_155634.jpg,D3/Tomato/Tomato_Healthy/IMG_20251102_155634.jpg,Tomato_Healthy,Tomato_Healthy,1,0.635191,0.831925,0.763519,Tomato,Tomato,1,False
+D3,Field-collected Test Dataset (D3),IMG_20260219_121616.jpg,D3/Tomato/Tomato_Healthy/IMG_20260219_121616.jpg,Tomato_Healthy,Tomato_Healthy,1,0.389113,0.55689,0.698724,Tomato,Tomato,1,False
+D3,Field-collected Test Dataset (D3),photo_14_2026-04-19_09-34-25.jpg,D3/Tomato/Tomato_Healthy/photo_14_2026-04-19_09-34-25.jpg,Tomato_Healthy,Tomato_Healthy,1,0.32809,0.678488,0.48356,Tomato,Tomato,1,False
+D3,Field-collected Test Dataset (D3),D (306).jpg,D3/Tomato/Tomato_Late_Blight/D (306).jpg,Tomato_Late_Blight,Tomato_Late_Blight,1,0.81455,0.814556,0.999993,Tomato,Tomato,1,True
+D3,Field-collected Test Dataset (D3),D (311).jpg,D3/Tomato/Tomato_Late_Blight/D (311).jpg,Tomato_Late_Blight,Tomato_Late_Blight,1,0.780212,0.826494,0.944003,Tomato,Tomato,1,False
+D3,Field-collected Test Dataset (D3),D (361).jpg,D3/Tomato/Tomato_Late_Blight/D (361).jpg,Tomato_Late_Blight,Tomato_Late_Blight,1,0.751477,0.753036,0.997929,Tomato,Tomato,1,False
+D3,Field-collected Test Dataset (D3),D (381).jpg,D3/Tomato/Tomato_Late_Blight/D (381).jpg,Tomato_Late_Blight,Tomato_Late_Blight,1,0.499578,0.50075,0.997659,Tomato,Tomato,1,False
+D3,Field-collected Test Dataset (D3),D (382).jpg,D3/Tomato/Tomato_Late_Blight/D (382).jpg,Tomato_Late_Blight,Tomato_Late_Blight,1,0.761152,0.789093,0.964591,Tomato,Tomato,1,False
+D3,Field-collected Test Dataset (D3),IMG-20240728-WA0058.jpg,D3/Tomato/Tomato_Late_Blight/IMG-20240728-WA0058.jpg,Tomato_Late_Blight,Tomato_Leaf_Mold,0,0.504612,0.557269,0.905508,Tomato,Tomato,1,True
+D3,Field-collected Test Dataset (D3),IMG-20240812-WA0245.jpg,D3/Tomato/Tomato_Late_Blight/IMG-20240812-WA0245.jpg,Tomato_Late_Blight,Tomato_Late_Blight,1,0.749313,0.805974,0.929699,Tomato,Tomato,1,False
+D3,Field-collected Test Dataset (D3),IMG_20260219_121148.jpg,D3/Tomato/Tomato_Late_Blight/IMG_20260219_121148.jpg,Tomato_Late_Blight,Tomato_Late_Blight,1,0.528366,0.588502,0.897815,Tomato,Tomato,1,False
+D3,Field-collected Test Dataset (D3),IMG_20260219_121225.jpg,D3/Tomato/Tomato_Late_Blight/IMG_20260219_121225.jpg,Tomato_Late_Blight,Tomato_Late_Blight,1,0.324988,0.569387,0.570768,Tomato,Tomato,1,False
+D3,Field-collected Test Dataset (D3),IMG_20260219_121611.jpg,D3/Tomato/Tomato_Late_Blight/IMG_20260219_121611.jpg,Tomato_Late_Blight,Tomato_Late_Blight,1,0.582782,0.653917,0.891217,Tomato,Tomato,1,False
+D3,Field-collected Test Dataset (D3),IMG_20260219_122852.jpg,D3/Tomato/Tomato_Late_Blight/IMG_20260219_122852.jpg,Tomato_Late_Blight,Tomato_Late_Blight,1,0.294101,0.581145,0.506071,Tomato,Tomato,1,False
+D3,Field-collected Test Dataset (D3),IMG_20260219_122947.jpg,D3/Tomato/Tomato_Late_Blight/IMG_20260219_122947.jpg,Tomato_Late_Blight,Tomato_Late_Blight,1,0.648075,0.68945,0.939988,Tomato,Tomato,1,False
+D3,Field-collected Test Dataset (D3),IMG_20260219_123339.jpg,D3/Tomato/Tomato_Late_Blight/IMG_20260219_123339.jpg,Tomato_Late_Blight,Tomato_Late_Blight,1,0.800357,0.84388,0.948426,Tomato,Tomato,1,False
+D3,Field-collected Test Dataset (D3),Late-blight-tomato-leaf-VikramBisht-MBag.jpg,D3/Tomato/Tomato_Late_Blight/Late-blight-tomato-leaf-VikramBisht-MBag.jpg,Tomato_Late_Blight,Tomato_Late_Blight,1,0.697709,0.697728,0.999973,Tomato,Tomato,1,False
+D3,Field-collected Test Dataset (D3),ltblt92281.jpg,D3/Tomato/Tomato_Late_Blight/ltblt92281.jpg,Tomato_Late_Blight,Tomato_Late_Blight,1,0.626034,0.63075,0.992523,Tomato,Tomato,1,False
+D3,Field-collected Test Dataset (D3),ltblt95981.jpg,D3/Tomato/Tomato_Late_Blight/ltblt95981.jpg,Tomato_Late_Blight,Tomato_Late_Blight,1,0.465023,0.608047,0.764782,Tomato,Tomato,1,False
+D3,Field-collected Test Dataset (D3),p1020084s.jpg,D3/Tomato/Tomato_Late_Blight/p1020084s.jpg,Tomato_Late_Blight,Tomato_Late_Blight,1,0.392694,0.49523,0.792953,Tomato,Tomato,1,False
+D3,Field-collected Test Dataset (D3),photo_16_2026-04-19_09-34-25.jpg,D3/Tomato/Tomato_Late_Blight/photo_16_2026-04-19_09-34-25.jpg,Tomato_Late_Blight,Tomato_Late_Blight,1,0.840328,0.840528,0.999761,Tomato,Tomato,1,False
+D3,Field-collected Test Dataset (D3),photo_7_2026-04-19_09-34-25.jpg,D3/Tomato/Tomato_Late_Blight/photo_7_2026-04-19_09-34-25.jpg,Tomato_Late_Blight,Tomato_Late_Blight,1,0.444932,0.510248,0.871991,Tomato,Tomato,1,False
+D3,Field-collected Test Dataset (D3),Picture2.jpg,D3/Tomato/Tomato_Late_Blight/Picture2.jpg,Tomato_Late_Blight,Tomato_Late_Blight,1,0.508735,0.513858,0.99003,Tomato,Tomato,1,False
+D3,Field-collected Test Dataset (D3),tomato-late-blight-foliar-lesions_Scot-Nelson_CC-BY-SA-2.0.jpg,D3/Tomato/Tomato_Late_Blight/tomato-late-blight-foliar-lesions_Scot-Nelson_CC-BY-SA-2.0.jpg,Tomato_Late_Blight,Tomato_Late_Blight,1,0.861301,0.861327,0.99997,Tomato,Tomato,1,False
+D3,Field-collected Test Dataset (D3),tomato_late-blight_01_zoom.jpg,D3/Tomato/Tomato_Late_Blight/tomato_late-blight_01_zoom.jpg,Tomato_Late_Blight,Tomato_Late_Blight,1,0.602027,0.602063,0.999939,Tomato,Tomato,1,True
+D3,Field-collected Test Dataset (D3),tomato_late-blight_04_zoom.jpg,D3/Tomato/Tomato_Late_Blight/tomato_late-blight_04_zoom.jpg,Tomato_Late_Blight,Tomato_Late_Blight,1,0.32777,0.435159,0.75322,Tomato,Tomato,1,False
+D3,Field-collected Test Dataset (D3),unnamed.jpg,D3/Tomato/Tomato_Late_Blight/unnamed.jpg,Tomato_Late_Blight,Tomato_Late_Blight,1,0.326689,0.494702,0.660375,Tomato,Tomato,1,False
+D3,Field-collected Test Dataset (D3),yellowing.JPG.jpg,D3/Tomato/Tomato_Late_Blight/yellowing.JPG.jpg,Tomato_Late_Blight,Tomato_Late_Blight,1,0.439973,0.820225,0.536405,Tomato,Tomato,1,False
+D3,Field-collected Test Dataset (D3),IMG-20240724-WA0073.jpg,D3/Tomato/Tomato_Leaf_Mold/IMG-20240724-WA0073.jpg,Tomato_Leaf_Mold,Tomato_Leaf_Mold,1,0.651258,0.791168,0.82316,Tomato,Tomato,1,True
+D3,Field-collected Test Dataset (D3),IMG-20240727-WA0118.jpg,D3/Tomato/Tomato_Leaf_Mold/IMG-20240727-WA0118.jpg,Tomato_Leaf_Mold,Tomato_Leaf_Mold,1,0.427374,0.660724,0.646826,Tomato,Tomato,1,False
+D3,Field-collected Test Dataset (D3),IMG-20240727-WA0169.jpg,D3/Tomato/Tomato_Leaf_Mold/IMG-20240727-WA0169.jpg,Tomato_Leaf_Mold,Tomato_Leaf_Mold,1,0.477296,0.776393,0.614761,Tomato,Tomato,1,False
+D3,Field-collected Test Dataset (D3),IMG-20240728-WA0014.jpg,D3/Tomato/Tomato_Leaf_Mold/IMG-20240728-WA0014.jpg,Tomato_Leaf_Mold,Tomato_Leaf_Mold,1,0.164355,0.529069,0.31065,Tomato,Tomato,1,False
+D3,Field-collected Test Dataset (D3),IMG-20240728-WA0036.jpg,D3/Tomato/Tomato_Leaf_Mold/IMG-20240728-WA0036.jpg,Tomato_Leaf_Mold,Tomato_Leaf_Mold,1,0.529373,0.556269,0.95165,Tomato,Tomato,1,False
+D3,Field-collected Test Dataset (D3),IMG-20240728-WA0051.jpg,D3/Tomato/Tomato_Leaf_Mold/IMG-20240728-WA0051.jpg,Tomato_Leaf_Mold,Tomato_Late_Blight,0,0.304746,0.642574,0.474257,Tomato,Tomato,1,True
+D3,Field-collected Test Dataset (D3),Leafmld56.jpg,D3/Tomato/Tomato_Leaf_Mold/Leafmld56.jpg,Tomato_Leaf_Mold,Tomato_Leaf_Mold,1,0.342009,0.787664,0.434207,Tomato,Tomato,1,False
+D3,Field-collected Test Dataset (D3),IMG-20240724-WA0065.jpg,D3/Tomato/Tomato_Mosaic_Virus/IMG-20240724-WA0065.jpg,Tomato_Mosaic_Virus,Tomato_Mosaic_Virus,1,0.457344,0.590432,0.774593,Tomato,Tomato,1,False
+D3,Field-collected Test Dataset (D3),IMG-20240728-WA0029.jpg,D3/Tomato/Tomato_Mosaic_Virus/IMG-20240728-WA0029.jpg,Tomato_Mosaic_Virus,Tomato_Mosaic_Virus,1,0.169543,0.555197,0.305375,Tomato,Tomato,1,True
+D3,Field-collected Test Dataset (D3),mosvir48737.jpg,D3/Tomato/Tomato_Mosaic_Virus/mosvir48737.jpg,Tomato_Mosaic_Virus,Tomato_Mosaic_Virus,1,0.193028,0.47723,0.404476,Tomato,Tomato,1,True
+D3,Field-collected Test Dataset (D3),photo_5_2026-04-19_09-34-25.jpg,D3/Tomato/Tomato_Mosaic_Virus/photo_5_2026-04-19_09-34-25.jpg,Tomato_Mosaic_Virus,Tomato_Mosaic_Virus,1,0.750973,0.785194,0.956417,Tomato,Tomato,1,False
+D3,Field-collected Test Dataset (D3),TYLCV-tomate-DB-445-171.jpg,D3/Tomato/Tomato_Mosaic_Virus/TYLCV-tomate-DB-445-171.jpg,Tomato_Mosaic_Virus,Tomato_Late_Blight,0,0.626174,0.660814,0.94758,Tomato,Tomato,1,False
+D3,Field-collected Test Dataset (D3),IMG_0264_JPG.rf.f7da3ee2d90629cacb96fe532595419b.jpg,D3/Tomato/Tomato_Spider_Mites/IMG_0264_JPG.rf.f7da3ee2d90629cacb96fe532595419b.jpg,Tomato_Spider_Mites,Tomato_Spider_Mites,1,0.442931,0.912499,0.485405,Tomato,Tomato,1,False
+D3,Field-collected Test Dataset (D3),IMG_0301_JPG.rf.2f7bb70b3a8a54b1bd4b1642af2733c2.jpg,D3/Tomato/Tomato_Spider_Mites/IMG_0301_JPG.rf.2f7bb70b3a8a54b1bd4b1642af2733c2.jpg,Tomato_Spider_Mites,Tomato_Spider_Mites,1,0.516284,0.879301,0.587152,Tomato,Tomato,1,False
+D3,Field-collected Test Dataset (D3),photo_3_2026-04-19_09-34-25.jpg,D3/Tomato/Tomato_Spider_Mites/photo_3_2026-04-19_09-34-25.jpg,Tomato_Spider_Mites,Tomato_Spider_Mites,1,0.214229,0.509142,0.420764,Tomato,Tomato,1,False
+D3,Field-collected Test Dataset (D3),spdmite77115.jpg,D3/Tomato/Tomato_Spider_Mites/spdmite77115.jpg,Tomato_Spider_Mites,Tomato_Spider_Mites,1,0.432734,0.897778,0.482005,Tomato,Tomato,1,True
+D3,Field-collected Test Dataset (D3),spdmite97286.jpg,D3/Tomato/Tomato_Spider_Mites/spdmite97286.jpg,Tomato_Spider_Mites,Tomato_Spider_Mites,1,0.586329,0.918862,0.638103,Tomato,Tomato,1,True
+D3,Field-collected Test Dataset (D3),spdmite99928.jpg,D3/Tomato/Tomato_Spider_Mites/spdmite99928.jpg,Tomato_Spider_Mites,Tomato_Spider_Mites,1,0.919979,0.931266,0.987879,Tomato,Tomato,1,True
+D3,Field-collected Test Dataset (D3),spdmite99937.jpg,D3/Tomato/Tomato_Spider_Mites/spdmite99937.jpg,Tomato_Spider_Mites,Tomato_Spider_Mites,1,0.842806,0.940774,0.895864,Tomato,Tomato,1,True
+D3,Field-collected Test Dataset (D3),D (236).jpg,D3/Tomato/Tomato_Yellow_Leaf_Curl_Virus/D (236).jpg,Tomato_Yellow_Leaf_Curl_Virus,Tomato_Yellow_Leaf_Curl_Virus,1,0.57598,0.758781,0.759086,Tomato,Tomato,1,False
+D3,Field-collected Test Dataset (D3),D (280).jpg,D3/Tomato/Tomato_Yellow_Leaf_Curl_Virus/D (280).jpg,Tomato_Yellow_Leaf_Curl_Virus,Tomato_Yellow_Leaf_Curl_Virus,1,0.521049,0.589024,0.884597,Tomato,Tomato,1,True
+D3,Field-collected Test Dataset (D3),D (318).jpg,D3/Tomato/Tomato_Yellow_Leaf_Curl_Virus/D (318).jpg,Tomato_Yellow_Leaf_Curl_Virus,Tomato_Yellow_Leaf_Curl_Virus,1,0.342182,0.514973,0.664467,Tomato,Tomato,1,False
+D3,Field-collected Test Dataset (D3),D (319).jpg,D3/Tomato/Tomato_Yellow_Leaf_Curl_Virus/D (319).jpg,Tomato_Yellow_Leaf_Curl_Virus,Tomato_Yellow_Leaf_Curl_Virus,1,0.799567,0.81686,0.978829,Tomato,Tomato,1,False
+D3,Field-collected Test Dataset (D3),D (321).jpg,D3/Tomato/Tomato_Yellow_Leaf_Curl_Virus/D (321).jpg,Tomato_Yellow_Leaf_Curl_Virus,Tomato_Yellow_Leaf_Curl_Virus,1,0.369279,0.506978,0.728394,Tomato,Tomato,1,False
+D3,Field-collected Test Dataset (D3),D (322).jpg,D3/Tomato/Tomato_Yellow_Leaf_Curl_Virus/D (322).jpg,Tomato_Yellow_Leaf_Curl_Virus,Tomato_Yellow_Leaf_Curl_Virus,1,0.38462,0.662123,0.580888,Tomato,Tomato,1,False
+D3,Field-collected Test Dataset (D3),D (323).jpg,D3/Tomato/Tomato_Yellow_Leaf_Curl_Virus/D (323).jpg,Tomato_Yellow_Leaf_Curl_Virus,Tomato_Yellow_Leaf_Curl_Virus,1,0.779542,0.858481,0.908049,Tomato,Tomato,1,False
+D3,Field-collected Test Dataset (D3),D (324).jpg,D3/Tomato/Tomato_Yellow_Leaf_Curl_Virus/D (324).jpg,Tomato_Yellow_Leaf_Curl_Virus,Tomato_Yellow_Leaf_Curl_Virus,1,0.581481,0.716697,0.811334,Tomato,Tomato,1,False
+D3,Field-collected Test Dataset (D3),D (329).jpg,D3/Tomato/Tomato_Yellow_Leaf_Curl_Virus/D (329).jpg,Tomato_Yellow_Leaf_Curl_Virus,Tomato_Yellow_Leaf_Curl_Virus,1,0.454785,0.828574,0.548877,Tomato,Tomato,1,False
+D3,Field-collected Test Dataset (D3),D (332).jpg,D3/Tomato/Tomato_Yellow_Leaf_Curl_Virus/D (332).jpg,Tomato_Yellow_Leaf_Curl_Virus,Tomato_Yellow_Leaf_Curl_Virus,1,0.552924,0.562307,0.983313,Tomato,Tomato,1,False
+D3,Field-collected Test Dataset (D3),D (333).jpg,D3/Tomato/Tomato_Yellow_Leaf_Curl_Virus/D (333).jpg,Tomato_Yellow_Leaf_Curl_Virus,Tomato_Yellow_Leaf_Curl_Virus,1,0.667125,0.671362,0.99369,Tomato,Tomato,1,False
+D3,Field-collected Test Dataset (D3),D (334).jpg,D3/Tomato/Tomato_Yellow_Leaf_Curl_Virus/D (334).jpg,Tomato_Yellow_Leaf_Curl_Virus,Tomato_Yellow_Leaf_Curl_Virus,1,0.380753,0.541636,0.702969,Tomato,Tomato,1,False
+D3,Field-collected Test Dataset (D3),D (345).jpg,D3/Tomato/Tomato_Yellow_Leaf_Curl_Virus/D (345).jpg,Tomato_Yellow_Leaf_Curl_Virus,Tomato_Yellow_Leaf_Curl_Virus,1,0.22104,0.572241,0.38627,Tomato,Tomato,1,True
+D3,Field-collected Test Dataset (D3),D (352).jpg,D3/Tomato/Tomato_Yellow_Leaf_Curl_Virus/D (352).jpg,Tomato_Yellow_Leaf_Curl_Virus,Tomato_Yellow_Leaf_Curl_Virus,1,0.808835,0.871822,0.927753,Tomato,Tomato,1,False
+D3,Field-collected Test Dataset (D3),D (358).jpg,D3/Tomato/Tomato_Yellow_Leaf_Curl_Virus/D (358).jpg,Tomato_Yellow_Leaf_Curl_Virus,Tomato_Yellow_Leaf_Curl_Virus,1,0.693011,0.749467,0.924672,Tomato,Tomato,1,False
+D3,Field-collected Test Dataset (D3),D (362).jpg,D3/Tomato/Tomato_Yellow_Leaf_Curl_Virus/D (362).jpg,Tomato_Yellow_Leaf_Curl_Virus,Tomato_Yellow_Leaf_Curl_Virus,1,0.262158,0.5682,0.461383,Tomato,Tomato,1,True
+D3,Field-collected Test Dataset (D3),D (404).jpg,D3/Tomato/Tomato_Yellow_Leaf_Curl_Virus/D (404).jpg,Tomato_Yellow_Leaf_Curl_Virus,Tomato_Yellow_Leaf_Curl_Virus,1,0.626088,0.721127,0.868208,Tomato,Tomato,1,True
+D3,Field-collected Test Dataset (D3),D (416).jpg,D3/Tomato/Tomato_Yellow_Leaf_Curl_Virus/D (416).jpg,Tomato_Yellow_Leaf_Curl_Virus,Tomato_Yellow_Leaf_Curl_Virus,1,0.567601,0.578986,0.980336,Tomato,Tomato,1,False
+D3,Field-collected Test Dataset (D3),D (425).jpg,D3/Tomato/Tomato_Yellow_Leaf_Curl_Virus/D (425).jpg,Tomato_Yellow_Leaf_Curl_Virus,Tomato_Yellow_Leaf_Curl_Virus,1,0.681043,0.862091,0.78999,Tomato,Tomato,1,False
+D3,Field-collected Test Dataset (D3),IMG-20240812-WA0213.jpg,D3/Tomato/Tomato_Yellow_Leaf_Curl_Virus/IMG-20240812-WA0213.jpg,Tomato_Yellow_Leaf_Curl_Virus,Tomato_Bacterial_Spot,0,0.199812,0.507905,0.393403,Tomato,Tomato,1,True
+D3,Field-collected Test Dataset (D3),IMG_20260219_121624.jpg,D3/Tomato/Tomato_Yellow_Leaf_Curl_Virus/IMG_20260219_121624.jpg,Tomato_Yellow_Leaf_Curl_Virus,Tomato_Early_Blight,0,0.845855,0.863918,0.979091,Tomato,Tomato,1,False
+D3,Field-collected Test Dataset (D3),photo_17_2026-04-19_09-34-25.jpg,D3/Tomato/Tomato_Yellow_Leaf_Curl_Virus/photo_17_2026-04-19_09-34-25.jpg,Tomato_Yellow_Leaf_Curl_Virus,Tomato_Yellow_Leaf_Curl_Virus,1,0.517236,0.856484,0.603907,Tomato,Tomato,1,False
+D3,Field-collected Test Dataset (D3),TYLCV4.jpg,D3/Tomato/Tomato_Yellow_Leaf_Curl_Virus/TYLCV4.jpg,Tomato_Yellow_Leaf_Curl_Virus,Tomato_Yellow_Leaf_Curl_Virus,1,0.253748,0.475688,0.533434,Tomato,Tomato,1,False
